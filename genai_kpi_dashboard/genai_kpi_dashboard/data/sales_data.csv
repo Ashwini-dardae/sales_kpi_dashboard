@@ -1,0 +1,6 @@
+date,product,category,revenue,orders,customers,ad_spend
+2024-01-01,Face Wash,Skincare,5000,100,90,800
+2024-01-01,Hyaluronic Cream,Skincare,7000,80,70,1000
+2024-01-02,Vitamin C Serum,Skincare,6000,70,60,900
+2024-01-02,Honey Shampoo,Haircare,4000,50,45,700
+2024-01-03,Onion Hair Oil,Haircare,6500,90,85,950
